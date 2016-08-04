@@ -1,0 +1,31 @@
+_repo: Heroes-of-the-Telegraph_979
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Munro, John
+    birthdate: 1849
+    deathdate: 1930
+    gutenberg_agent_id: '496'
+    url: http://www.gutenberg.org/2009/agents/496
+description: Prof. John Munro (1849-1930) was the author of Heroes of the Telegraph
+  (1891), The Story of Electricity (1896) and A Trip to Venus (1897). ""In plain English,
+  at 4 a. m., a ray of light had been observed on the disc of the planet Mars in or
+  near the ""terminator""; that is to say, the zone of twilight separating day from
+  night. The news was doubly interesting to me, because a singular dream of ""Sunrise
+  in the Moon"" had quickened my imagination as to the wonders of the universe beyond
+  our little globe, and because of a never-to-be-forgotten experience of mine with
+  an aged astronom.
+gutenberg_issued: '1997-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '979'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Telegraph -- History'
+- !lcc 'TK'
+- GITenberg
+title: Heroes of the Telegraph
+url: http://www.gutenberg.org/ebooks/979
