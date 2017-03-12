@@ -1,5 +1,8 @@
 _repo: Heroes-of-the-Telegraph_979
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Munro, John
@@ -15,6 +18,8 @@ description: Prof. John Munro (1849-1930) was the author of Heroes of the Telegr
   in the Moon"" had quickened my imagination as to the wonders of the universe beyond
   our little globe, and because of a never-to-be-forgotten experience of mine with
   an aged astronom.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/979#Heroes-of-the-Telegraph
 gutenberg_issued: '1997-07-01'
 gutenberg_type: Text
 identifiers:
